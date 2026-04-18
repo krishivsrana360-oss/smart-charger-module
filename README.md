@@ -3,7 +3,7 @@ Raspberry Pi based smart charger that auto-stops charging at user-set battery % 
 # Smart Charger Module
 
 A Raspberry Pi based smart charging system that automatically stops charging 
-when the battery reaches a user-defined percentage. Built as a final year 
+when the battery reaches a user-defined percentage. Built
 project at Dharmsinh Desai University.
 
 ## What it does
