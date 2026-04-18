@@ -61,5 +61,4 @@ project at Dharmsinh Desai University.
 
 ## Made By
 
-Rana Krishiv S (EC041) — Electronics & Communication, DDU Nadiad  
-Academic Year 2024-25
+Krishiv S Rana
