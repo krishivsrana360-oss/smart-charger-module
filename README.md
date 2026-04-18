@@ -48,11 +48,11 @@ project at Dharmsinh Desai University.
 *Photos of working setup below*
 ## Project Photos
 
-### Circuit Diagram
-![Circuit Diagram](./Screenshot%202026-04-18%20230508.png)
-
 ### Block Diagram
-![Block Diagram](./Screenshot%202026-04-18%20230523.png)
+![Block Diagram](./Screenshot%202026-04-18%20230508.png)
+
+### Circuit Diagram
+![Circuit Diagram](./Screenshot%202026-04-18%20230523.png)
 
 ### output images 
 ![output images](./Screenshot%202026-04-18%20230541.png)
