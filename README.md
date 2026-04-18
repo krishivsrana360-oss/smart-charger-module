@@ -51,20 +51,20 @@ project at Dharmsinh Desai University.
 ### Circuit Diagram
 ![Circuit Diagram](./Screenshot%202026-04-18%20230508.png)
 
-### Output
-![Output](./Screenshot%202026-04-18%20230523.png)
+### Block Diagram
+![Block Diagram](./Screenshot%202026-04-18%20230523.png)
+
+### output images 
+![output images](./Screenshot%202026-04-18%20230541.png)
 
 ### Raspberry Pi Pinout
-![Raspberry Pi Pinout](./Screenshot%202026-04-18%20230541.png)
+![Raspberry Pi Pinout](./Screenshot%202026-04-18%20230557.png)
 
 ### Keypad Pinout
-![Keypad Pinout](./Screenshot%202026-04-18%20230557.png)
+![Keypad Pinout](./Screenshot%202026-04-18%20230606.png)
 
 ### Results Graph
-![Results Graph](./Screenshot%202026-04-18%20230606.png)
-
-### Full Setup
-![Full Setup](./Screenshot%202026-04-18%20230653.png)
+![Results Graph](./Screenshot%202026-04-18%20230653.png)
 
 ## Limitations
 
