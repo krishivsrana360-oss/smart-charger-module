@@ -46,6 +46,25 @@ project at Dharmsinh Desai University.
 ## Project Demo
 
 *Photos of working setup below*
+## Project Photos
+
+### Circuit Diagram
+![Circuit Diagram](./Screenshot%202026-04-18%20230508.png)
+
+### Output
+![Output](./Screenshot%202026-04-18%20230523.png)
+
+### Raspberry Pi Pinout
+![Raspberry Pi Pinout](./Screenshot%202026-04-18%20230541.png)
+
+### Keypad Pinout
+![Keypad Pinout](./Screenshot%202026-04-18%20230557.png)
+
+### Results Graph
+![Results Graph](./Screenshot%202026-04-18%20230606.png)
+
+### Full Setup
+![Full Setup](./Screenshot%202026-04-18%20230653.png)
 
 ## Limitations
 
